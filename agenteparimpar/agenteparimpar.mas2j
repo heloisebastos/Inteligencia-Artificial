@@ -1,0 +1,11 @@
+/* Jason Project */
+
+MAS agenteparimpar {
+
+    infrastructure: Centralised
+
+    agents:agdiv;
+	//agparimpar;
+	
+}
+

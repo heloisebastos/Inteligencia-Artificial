@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS oiagente {
+
+    infrastructure: Centralised
+
+    agents:agente;
+}
+

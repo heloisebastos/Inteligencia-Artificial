@@ -1,0 +1,9 @@
+// Agent kate in project projConversa.mas2j
+
+!falarpara.
+
+
++!falarpara : true <- 
+.print("Ola Bob,Eou sou linda");
+.send(bob,tell,kate(linda)).
+

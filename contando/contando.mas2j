@@ -1,0 +1,11 @@
+/* Jason Project */
+
+MAS contando {
+
+    infrastructure: Centralised
+
+    agents:
+	agentemult;
+	agentecont;
+}
+
