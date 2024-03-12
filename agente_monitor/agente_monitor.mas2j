@@ -1,0 +1,10 @@
+/* Jason Project */
+
+MAS agente_monitor {
+
+    infrastructure: Centralised
+
+    agents: agmonitor;
+	
+}
+

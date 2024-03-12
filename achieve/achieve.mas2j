@@ -1,0 +1,11 @@
+/* Jason Project */
+
+MAS achieve {
+
+    infrastructure: Centralised
+
+    agents:kate;
+	bob;
+	
+}
+

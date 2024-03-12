@@ -1,0 +1,10 @@
+/* Jason Project */
+
+MAS projeto_askall {
+
+    infrastructure: Centralised
+
+    agents:kate;
+	bob;
+}
+

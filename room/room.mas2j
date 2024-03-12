@@ -1,0 +1,14 @@
+/* Jason Project */
+
+MAS room {
+
+    infrastructure: Centralised
+
+    agents: luzacessa;
+	luzapagada;
+	//claustrofobico;
+	//paranoico;
+
+	
+}
+
