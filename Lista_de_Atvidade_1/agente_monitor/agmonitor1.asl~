@@ -1,0 +1,12 @@
+// Agent agmonitor0 in project agente_monitor.mas2j
+
+/* Initial beliefs and rules */
+diasemana.
+/* Plans */
+
++!diasemana : true <- .print("eh segunda").
+	//+dia(sexta).
+
+	//+dia(sexta) <- .print("ola tudo bem").
+
+
