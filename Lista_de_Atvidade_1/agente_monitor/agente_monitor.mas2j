@@ -13,8 +13,9 @@ MAS agente_monitor {
     infrastructure: Centralised
 
     agents:
-	//agmonitor0;
-	agmonitor1;
+	//agmonitor1;
+	agmonitor2;
+	//agmonitor3;
 	
 	
 	

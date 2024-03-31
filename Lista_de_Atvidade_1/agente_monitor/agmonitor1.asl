@@ -1,16 +1,15 @@
-// Agent agmonitor0 in project agente_monitor.mas2j
 
-/*2) No agente monitor acima adicione que ele irá imprimir a mensagem 
-  apenas se ele tiver a crença que não é segunda. */
-
+// Agent agmonitor1 in project agente_monitor.mas2j
+/*1) Crie um agente monitor, esse agente tem um plano para 
+  imprimir uma mensagem "Olá, Tudo bem?". */
+  
 /* Initial beliefs and rules */
 
+/* Initial goals */
+
+!start.
+
 /* Plans */
-!diasemana.
 
-+!diasemana : true <- .print("eh segunda");
-	+dia(sexta).
-
-	+dia(sexta) <- .print("ola tudo bem").
-
++!start : true <- .print("ola tudo bem").
 
