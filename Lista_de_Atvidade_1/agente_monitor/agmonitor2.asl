@@ -1,6 +1,3 @@
-
-
-
 // Agent agmonitor0 in project agente_monitor.mas2j
 
 /*2) No agente monitor acima adicione que ele irá imprimir a mensagem 
