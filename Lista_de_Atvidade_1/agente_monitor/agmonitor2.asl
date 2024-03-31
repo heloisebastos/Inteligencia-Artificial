@@ -8,12 +8,19 @@
 
 /* Initial beliefs and rules */
 
-/* Plans */
-!diasemana.
+dia(segunda).
 
-+!diasemana : true <- .print("eh segunda");
-	+dia(sexta).
+!semana.
 
-	+dia(sexta) <- .print("ola tudo bem").
++!semana : true
+	<- .print("eh segunda");
+	+~dia(segunda);
+	-dia;
+	.print("ola tudo bem,hoje eh sexta,ebaa!").
+	
+
+
+
+
 
 
