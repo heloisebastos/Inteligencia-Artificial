@@ -1,0 +1,14 @@
+/* Jason Project */
+/*broadcast - permite o uso das performativas vista anteriomente 
+- mas não é preciso identifcar o agemte de destino,
+visto que ela será enviada a todos os afgentes do SMA*/
+
+MAS projetoBroadcast {
+
+    infrastructure: Centralised
+
+    agents:kate;
+	bob;
+	alice;
+}
+
