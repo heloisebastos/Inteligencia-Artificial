@@ -1,0 +1,10 @@
+/* Jason Project */
+
+MAS projetoMSG {
+
+    infrastructure: Centralised
+
+    agents:a1;
+	
+}
+
