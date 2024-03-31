@@ -14,8 +14,8 @@ MAS agente_monitor {
 
     agents:
 	//agmonitor1;
-	agmonitor2;
-	//agmonitor3;
+	//agmonitor2;
+	agmonitor3;
 	
 	
 	
