@@ -1,0 +1,13 @@
+/* Jason Project */
+
+/*agente remetente solicita ao agente receptor a remoção
+da implementação de um plano da biblioteca de planos do receptor */
+
+MAS projetountellHow {
+
+    infrastructure: Centralised
+
+    agents:kate;
+	bob;
+}
+

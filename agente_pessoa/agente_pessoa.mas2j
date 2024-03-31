@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS agente_pessoa {
+
+    infrastructure: Centralised
+
+    agents:agpessoa;
+}
+

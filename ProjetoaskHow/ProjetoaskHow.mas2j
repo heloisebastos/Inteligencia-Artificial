@@ -1,0 +1,13 @@
+/* Jason Project */
+
+/*askHow - agente remetente deseja saber todas implementações de planos do 
+receptor para determinado plano*/
+
+MAS projetoaskHow {
+
+    infrastructure: Centralised
+
+    agents:kate;
+	bob;
+}
+
