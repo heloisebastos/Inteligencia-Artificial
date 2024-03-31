@@ -1,9 +1,14 @@
-/* Jason Project */
-
-MAS oiagente {
-
-    infrastructure: Centralised
-
-    agents:agente;
-}
+/* Jason Project */
+
+
+
+MAS oiagente {
+
+
+
+    infrastructure: Centralised
+
+	agents:agente;
+}
+
 

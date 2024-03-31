@@ -1,17 +1,21 @@
-// Agent agente in project oiagente.mas2j
-
-/* Initial beliefs and rules */
-
-/* Initial goals */
-inicio.
+// Agent agente in project oiagente.mas2j
+
+/* Initial beliefs and rules - - crença inicial */
+
+inicio.
 inicio2.
+ok.
 
-/*!start.*/
-
-/* Plans */
-
-+inicio <-print("Crença inicio executando").
-+inicio2 <-print("Crença inicio 2","meu nome é ...").
+/* Initial goals */
+/*!start.*/
+/* Plans */
 
-//+!start : true <- .print("hello world.").
+//+inicio <- .print("Crenca inicio executando").
++inicio:ok <-
+.print("crenca inicio executando");
+.print("inicio1").
++inicio2 <- .print("Crenca inicio 2","meu nome e ...").
+
+//+!start : true <- .print("hello world.").
+
 
