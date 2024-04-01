@@ -1,12 +1,12 @@
-// Agent relogio in project projDespertador.mas2j
-
-/* Initial beliefs and rules */
-
-/* Initial goals */
-
-!start.
-
-/* Plans */
+// Agent relogio in project projDespertador.mas2j
+
+/* Initial beliefs and rules */
+
+/* Initial goals */
+
+!start.
+
+/* Plans */
 
 +!start <-
 .print("Relogio em execucao");
@@ -21,9 +21,4 @@
 +!despertador:hora(H) & H>7 & H<=8 <- .print("Acordar").
 +!despertador:hora(H) & H>22 <- .print("Dormir").
 -!despertador:true <- .print("Plano executado").
-
-
-
-
-
 
