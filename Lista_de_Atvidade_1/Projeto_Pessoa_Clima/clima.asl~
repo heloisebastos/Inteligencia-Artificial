@@ -1,0 +1,21 @@
+// Agent clima in project Projeto_Pessoa_Clima.mas2j
+
+
+
+
+
+/* Initial goals */
+!previsao.
+
+
+!start.
+
+
+
+/* Plans */
+
+
+
++!start : true <- .print("hello world.").
+
+
