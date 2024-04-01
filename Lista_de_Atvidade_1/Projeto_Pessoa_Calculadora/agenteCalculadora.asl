@@ -6,8 +6,9 @@
 
 op(quatro).
 
-+op(quatro):op(X) & (X == quatro)<- .print("eh 4").
+op(um).
 
+op(vinteoito).
 
-
+op(tres).
 
