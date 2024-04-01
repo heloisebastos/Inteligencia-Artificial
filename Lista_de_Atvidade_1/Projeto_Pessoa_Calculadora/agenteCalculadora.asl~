@@ -1,0 +1,12 @@
+// Agent agenteCalculadora in project Projeto_Pessoa_Calculadora.mas2j
+
+/* Initial beliefs and rules */
+
+/* Initial goals */
+
+!start.
+
+/* Plans */
+
++!start : true <- .print("hello world.").
+
