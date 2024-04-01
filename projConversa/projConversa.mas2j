@@ -1,10 +1,12 @@
-/* Jason Project */
-
-MAS projConversa {
-
-    infrastructure: Centralised
-
-    agents:kate;
+/* Jason Project */
+
+
+MAS projConversa {
+    infrastructure: Centralised
+
+    agents:
+	kate;
 	bob;
-}
+}
+
 

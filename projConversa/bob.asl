@@ -1,7 +1,6 @@
 // Agent bob in project projConversa.mas2j
 
 
-
 //!falarpara.
 //+!falarpara : true <- 
 //.print("Ola kate,tambem acho");
@@ -9,5 +8,5 @@
 
 +kate(linda) <-
 +~kate(linda);
-.print("nao,voce nao e!");
+.print("nao,voce nao eh!");
 .send(kate,tell,~kate(linda)).
