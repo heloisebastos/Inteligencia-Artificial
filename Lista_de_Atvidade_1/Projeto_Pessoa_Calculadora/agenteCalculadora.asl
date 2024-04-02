@@ -4,6 +4,6 @@
 
 /* Initial beliefs and rules */
 
-+!valor(X,Y)<-
++!operacao(X,Y)<-
 	Return = X*Y;
-	.send(agentePessoa,tell,valor(Return)).
+	.send(agentePessoa,tell,operacao(Return)).

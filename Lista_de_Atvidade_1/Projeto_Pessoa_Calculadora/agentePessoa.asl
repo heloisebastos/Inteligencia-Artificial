@@ -4,9 +4,9 @@
 
 /* Plans */
 +!calcular(X,Y)<- 
-	.send(agenteCalculadora,achieve,valor(X,Y)).
+	.send(agenteCalculadora,achieve,operacao(X,Y)).
 	
-	+valor(Return) <- 
+	+operacao(Return) <- 
 		.print("resultado = ",Return).
 
 
