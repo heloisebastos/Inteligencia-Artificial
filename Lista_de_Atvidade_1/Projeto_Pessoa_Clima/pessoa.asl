@@ -6,15 +6,15 @@
 
 +!previsao <-
 	//.print("A previsao do tempo eh:");
-	.send(clima,askOne,clima(Nome)).
+	.send(clima,askOne,tempo(Nome)).
 	
-+clima(frio) <-
-	.print("dormir").
++tempo(frio) <-
+	.print("dormir :)").
 	
-+clima(chuva) <-
++tempo(chuva) <-
 	.print("dormir e ler um livro").
 
-+clima(sol) <-
++tempo(sol) <-
 	.print("ir pra praia").
 
 
