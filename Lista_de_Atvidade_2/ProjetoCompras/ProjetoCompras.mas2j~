@@ -1,0 +1,20 @@
+/* Jason Project */
+
+/*1) Modelagem do comportamento de um agente de compras: 
+O agente deve ser capaz de adicionar itens a uma lista de compras, comprar
+itens na loja e manter o histórico de compras. 
+
+Crenças: O agente tem crenças sobre os itens disponíveis para compra, seu preço 
+e qualidade. Ele também tem crenças sobre as preferências do usuário em relação 
+a cada item.
+Ações: O agente pode adicionar itens à lista de compras, remover itens, 
+comparar preços e comprar itens.
+Planos: O agente pode ter planos para pesquisar produtos, 
+comparar preços, decidir quais itens comprar e onde comprá-los.*/
+MAS projetoCompras {
+
+    infrastructure: Centralised
+
+    agents:
+}
+
