@@ -4,11 +4,6 @@
 
 /* Initial beliefs and rules */
 
-op(quatro).
-
-op(um).
-
-op(vinteoito).
-
-op(tres).
-
++!valor(X,Y)<-
+	Return = X*Y;
+	.send(agentePessoa,tell,valor(Return)).
