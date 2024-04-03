@@ -13,15 +13,13 @@ Ações: O agente pode adicionar itens à lista de compras, remover itens,
 comparar preços e comprar itens.
 Planos: O agente pode ter planos para pesquisar produtos, 
 comparar preços, decidir quais itens comprar e onde comprá-los.*/
+
 MAS projetoCompras {
 
-
-
     infrastructure: Centralised
-
-
-
-    agents:compras;
+    agents:agenteCompras;
+	lojaonline;
+	lojafisica;
 
 }
 
