@@ -1,0 +1,12 @@
+/* Jason Project */
+/*askall O agente remetente deseja saber todas as repostas do
+receptor sobre uma questão.*/
+
+MAS projeto_Askall {
+
+    infrastructure: Centralised
+
+    agents:kate;
+	bob;
+}
+
