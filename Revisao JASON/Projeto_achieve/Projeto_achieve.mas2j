@@ -1,0 +1,13 @@
+/* Jason Project */
+
+/*achieve - O agente remetente pede que o receptor tente atingir um
+objetivo de estado verdadeiro de acordo com conteúdo enviado.;*/
+
+MAS projeto_achieve {
+
+    infrastructure: Centralised
+
+    agents:kate;
+	bob;
+}
+
