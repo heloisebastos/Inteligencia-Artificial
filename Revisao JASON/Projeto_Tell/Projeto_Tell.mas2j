@@ -1,0 +1,14 @@
+/* Jason Project */
+
+/*O agente remetente pretende que o receptor acredite que
+o conteúdo enviado é verdadeiro de acordo com as crenças do
+remetente.*/
+
+MAS projeto_Tell {
+
+    infrastructure: Centralised
+
+    agents:kate;
+	bob;
+}
+
