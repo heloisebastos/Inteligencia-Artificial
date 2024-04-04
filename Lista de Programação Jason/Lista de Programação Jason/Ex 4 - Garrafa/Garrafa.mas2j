@@ -1,0 +1,10 @@
+/* Jason Project */
+
+MAS garrafa {
+
+    infrastructure: Centralised
+
+    agents: garrafa;
+	responsavel;
+}
+

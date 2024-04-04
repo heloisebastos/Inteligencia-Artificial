@@ -1,0 +1,15 @@
+/* Jason Project */
+
+MAS geladeira_inteligente {
+
+    infrastructure: Centralised
+
+    agents:
+		compras;
+		geladeira;
+		consumidor_1;
+		consumidor_2;
+		consumidor_3;
+}
+
+

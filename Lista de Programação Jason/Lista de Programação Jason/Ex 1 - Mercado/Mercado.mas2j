@@ -1,0 +1,20 @@
+/* Jason Project */
+
+
+
+MAS mercado {
+
+
+
+    infrastructure: Centralised
+
+
+
+    agents:  registrador;
+			 comprador;
+			 vendedor;
+			
+ 
+}
+
+

@@ -1,0 +1,13 @@
+/* Jason Project */
+
+/*O agente remetente informa ao agente receptor a
+implementação de um plano.*/
+
+MAS projeto_tellHow {
+
+    infrastructure: Centralised
+
+    agents:kate;
+	bob;
+}
+

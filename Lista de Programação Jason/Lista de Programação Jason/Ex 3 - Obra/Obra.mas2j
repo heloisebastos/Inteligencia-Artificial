@@ -1,0 +1,21 @@
+/* Jason Project */
+
+
+
+MAS obra {
+
+
+
+    infrastructure: Centralised
+
+
+
+    agents:
+
+	tecnico;
+	engenheiro;
+	cliente;
+}
+
+
+
