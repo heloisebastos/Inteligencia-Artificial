@@ -1,0 +1,20 @@
+/* Jason Project */
+
+
+/*O agente remetente deseja saber se a reposta do receptor
+para determinada questão é verdadeira*/
+
+MAS projeto_askOne {
+
+
+
+    infrastructure: Centralised
+
+
+
+    agents: kate;
+	bob;
+
+}
+
+
