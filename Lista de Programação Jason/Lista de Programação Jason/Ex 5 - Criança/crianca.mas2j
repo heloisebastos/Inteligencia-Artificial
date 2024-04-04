@@ -1,9 +1,0 @@
-/* Jason Project */
-
-MAS crianca {
-
-    infrastructure: Centralised
-
-    agents: crianca;
-}
-
