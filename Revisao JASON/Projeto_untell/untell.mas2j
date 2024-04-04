@@ -1,0 +1,20 @@
+/* Jason Project */
+/*Untell - O agente remetente pretende que o receptor não acredite
+que o conteúdo enviado é verdadeiro de acordo com as crenças do
+remetente.*/
+
+
+MAS untell {
+
+
+
+    infrastructure: Centralised
+
+
+
+    agents:
+	kate;
+	bob;
+}
+
+
